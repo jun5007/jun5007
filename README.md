@@ -10,10 +10,10 @@ AI & Big Data student at Soonchunhyang University, interested in data analysis, 
 
 | Project | Problem | My Role | Result | Repository |
 |---|---|---|---|---|
-| Exchange-Rate and Industry Return Walk-Forward Analysis | Examine exchange-rate sensitivity, synchronization features, and next-month industry returns | Collected and preprocessed assigned stock data in a shared format; co-developed Walk-Forward Validation with co-author 이민성. **Co-author (4th author); manuscript written by 이민성.** | Public R implementation; source data are unavailable, so performance revalidation is required. | [exchange-rate-synchronization](https://github.com/jun5007/exchange-rate-synchronization) |
+| Exchange-Rate and Industry Return Walk-Forward Analysis | Examine exchange-rate sensitivity, synchronization features, and next-month industry returns | Collected and preprocessed assigned stock data in a shared format; co-developed Walk-Forward Validation with Minsung Lee. **Co-author (4th author); manuscript written by Minsung Lee.** | Public R implementation; source data are unavailable, so performance revalidation is required. | [exchange-rate-synchronization](https://github.com/jun5007/exchange-rate-synchronization) |
 | Issue & Stock Market EDA | Explore market-attention proxies and next-trading-day price and volume responses | Joined team collection of Naver search data and organization of BIGKinds news data; completed the final data consolidation and visualizations. | Documentation and an environment list are public; analysis code and data are not public. | [issue-stock-eda](https://github.com/jun5007/issue-stock-eda) |
-| Generative AI Package Dependency Network Analysis | Identify central packages, dependency communities, and structurally similar alternatives | Team project; individual contribution not listed. | PyPI-based CSV outputs and documentation are public; collection and analysis pipeline code is not public. | [Portfolio subfolder](https://github.com/jun5007/jun5007.github.io/tree/main/projects/genai-package-dependency) |
-| ETRI Human Understanding Challenge | Evaluate a human-understanding AI competition submission | **Individual participant.** Model-selection decisions and the post-competition review are summarized below. | **Leaderboard Stage Completed.** Public Leaderboard: **1st / 0.50143** · Final Private Leaderboard: **118th / 0.59183**. | No dedicated public repository · [Schedule](https://www.dacon.io/competitions/official/236690/overview/schedule) · [Leaderboard](https://www.dacon.io/competitions/official/236690/leaderboard) |
+| Generative AI Package Dependency Network Analysis | Identify central packages, dependency communities, and structurally similar alternatives | Project Type: Team Project | PyPI-based CSV outputs and documentation are public; collection and analysis pipeline code is not public. | [Portfolio subfolder](https://github.com/jun5007/jun5007.github.io/tree/main/projects/genai-package-dependency) |
+| ETRI Human Understanding Challenge | Evaluate a human-understanding AI competition submission | **Individual participant.** The key learning is summarized below. | **Leaderboard Stage Completed.** Public Leaderboard: **1st / 0.50143** · Final Private Leaderboard: **118th / 0.59183**. | No dedicated public repository · [Schedule](https://www.dacon.io/competitions/official/236690/overview/schedule) · [Leaderboard](https://www.dacon.io/competitions/official/236690/leaderboard) |
 
 ## Competition Experience
 
@@ -26,15 +26,9 @@ The records below were rechecked through the signed-in DACON participant profile
 | 2026 Samsung Collegiate Programming Challenge : AI 챌린지 | **Round 1 completed; advancement result pending** | **Individual participant** | Public snapshot: **215th / 640 · 0.8686** | [Schedule](https://www.dacon.io/competitions/official/236730/overview/schedule) · [Leaderboard](https://www.dacon.io/competitions/official/236730/leaderboard) |
 | 제3회 풍력발전량 예측 AI 경진대회 - BARAM 2026 | **In Progress** | **Individual participant** | Public snapshot: **42nd / 763 · Total 0.65318** (1−NMAE 0.87534 · FiCR 0.43102) | [Schedule](https://www.dacon.io/competitions/official/236727/overview/schedule) · [Leaderboard](https://www.dacon.io/competitions/official/236727/leaderboard) |
 
-### ETRI Post-Competition Review
+### ETRI Key Learning
 
-*From Public Leaderboard 1st to Final Private 118th: A Post-Competition Analysis of Validation and Generalization.*
-
-- **Initial approach:** Because the Public leaderboard ranking contributed to a course grade, I initially prioritized Public leaderboard performance when selecting models.
-- **What worked:** I reached Public 1st early. I then redesigned the model with Private generalization in mind; the Public rank moved to 3rd and 5th during this process, and the final submitted model returned to Public 1st.
-- **What did not:** The final Private result was 118th, showing a large Public–Private generalization gap. This outcome is consistent with model selection being overly influenced by Public leaderboard feedback and with possible overfitting, but it is not a definitive diagnosis without the full code and experiment records.
-- **What I learned:** A strong Public rank does not guarantee performance on unseen data. Repeatedly using leaderboard feedback for model decisions can favor Public-specific performance over generalization.
-- **What I will change:** In future competitions, I will prioritize robust local validation and unseen-data performance, keep clearer experiment records, and rely less on leaderboard probing. Even when Public rank affects a course grade, I will evaluate model choices against generalization estimates rather than Public rank alone.
+Public 순위와 모델의 실제 일반화 성능은 서로 다를 수 있으며, 모델 개발 전에 검증 방식과 최종 제출 기준을 정하는 것이 중요하다는 점을 배웠습니다. 다음 대회에서는 사전에 정한 로컬 검증 기준과 실험 기록을 바탕으로 모델을 선택하겠습니다.
 
 No dedicated public repository or publishable code artifact for the three newly listed competitions is present in the current workspace. Original competition data are not included.
 
