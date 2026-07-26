@@ -1,35 +1,26 @@
-# 안녕하세요, 이석준입니다.
+# Seokjun Lee
 
-순천향대학교 AI빅데이터학과 3학년으로, 금융 데이터와 뉴스/검색 데이터를 활용한 시계열 분석, EDA, 머신러닝 프로젝트를 진행하고 있습니다.  
-데이터를 단순히 모델에 넣는 것보다, 문제 정의부터 전처리, 파생변수 설계, 검증 방식까지 설득력 있게 연결하는 과정에 관심이 있습니다.
+AI & Big Data student at Soonchunhyang University, interested in data analysis, machine learning, and data preprocessing.
 
-## Portfolio
+순천향대학교 AI빅데이터학과에서 데이터 분석, 머신러닝, 데이터 전처리에 관심을 두고 공부하고 있습니다.
 
-- Portfolio Website: [https://jun5007.github.io](https://jun5007.github.io)
-- GitHub: [https://github.com/jun5007](https://github.com/jun5007)
+[Portfolio Website](https://jun5007.github.io) · [GitHub Profile](https://github.com/jun5007)
 
-## Projects
+## Featured Work
 
-| Project | Period | Keywords |
-|---|---:|---|
-| [환율 민감도 기반 클러스터링과 산업별 월간 수익률 예측](https://github.com/jun5007/exchange-rate-synchronization) | 2025.03 - 2025.06 | Time Series, Clustering, RandomForest, Association Rules |
-| [이슈와 주식 EDA: 개인투자자의 FOMO 행동 패턴 분석](https://github.com/jun5007/issue-stock-eda) | 2025.09 - 2025.12 | EDA, News Data, Search Trend, Event Study, K-Means |
+| Project | Focus | Result / Status |
+|---|---|---|
+| [5th DACON ETRI Human Understanding Challenge](https://jun5007.github.io) | Human-understanding AI competition | Public Leaderboard: **1st (0.50143)** · Final Private Leaderboard: **118th (0.59183)**. No dedicated public repository yet. |
+| [Generative AI Package Dependency Network Analysis](https://github.com/jun5007/jun5007.github.io/tree/main/projects/genai-package-dependency) | Dependency-network analysis of generative AI Python packages | Public project materials |
+| [Exchange-Rate and Industry Return Walk-Forward Analysis](https://github.com/jun5007/exchange-rate-synchronization) | R-based baseline and synchronization-feature comparison | Public repository |
+| [Market-Attention Proxy Analysis](https://github.com/jun5007/issue-stock-eda) | Exploratory analysis using stock, news, and search-trend data | Public repository |
 
-## Tech Stack
+The ETRI rank and score values are based on the participant record provided for this portfolio. A direct public leaderboard evidence link has not yet been added.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=flat-square)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+## Technical Skills
 
-## Interests
-
-- Financial data analysis
-- Time-series feature engineering
-- News/search trend based market reaction analysis
-- Machine learning model evaluation
-- Data visualization and EDA storytelling
+| Area | Tools |
+|---|---|
+| Programming & Querying | Python, SQL, R |
+| Data & Machine Learning | pandas, scikit-learn, LightGBM |
+| Analysis Workflow | Jupyter Notebook, Google Colab, GitHub, Excel |
