@@ -13,7 +13,7 @@ AI & Big Data student at Soonchunhyang University, interested in data analysis, 
 | Exchange-Rate and Industry Return Walk-Forward Analysis | Examine exchange-rate sensitivity, synchronization features, and next-month industry returns | **Co-author (4th author).** Detailed implementation ownership is not specified in the public record. | Public R implementation; source data are unavailable, so performance revalidation is required. | [exchange-rate-synchronization](https://github.com/jun5007/exchange-rate-synchronization) |
 | Issue & Stock Market EDA | Explore market-attention proxies and next-trading-day price and volume responses | Four-person team project; individual responsibilities are not specified in the public record. | Documentation and an environment list are public; analysis code and data are not public. | [issue-stock-eda](https://github.com/jun5007/issue-stock-eda) |
 | Generative AI Package Dependency Network Analysis | Identify central packages, dependency communities, and structurally similar alternatives | Individual responsibilities are not specified in the public project records. | CSV outputs and documentation are public; collection and analysis pipeline code is not public. | [Portfolio subfolder](https://github.com/jun5007/jun5007.github.io/tree/main/projects/genai-package-dependency) |
-| ETRI Human Understanding Challenge | Evaluate a human-understanding AI competition submission | **Competition participant.** Detailed responsibilities are not specified in the public record. | **Leaderboard Stage Completed.** Public Leaderboard: **1st / 0.50143** · Final Private Leaderboard: **118th / 0.59183** · Paper Status: **TODO**. | No dedicated public repository · [Schedule](https://www.dacon.io/competitions/official/236690/overview/schedule) · [Leaderboard](https://www.dacon.io/competitions/official/236690/leaderboard) |
+| ETRI Human Understanding Challenge | Evaluate a human-understanding AI competition submission | **Competition participant.** Detailed responsibilities are not specified in the public record. | **Leaderboard Stage Completed.** Public Leaderboard: **1st / 0.50143** · Final Private Leaderboard: **118th / 0.59183**. | No dedicated public repository · [Schedule](https://www.dacon.io/competitions/official/236690/overview/schedule) · [Leaderboard](https://www.dacon.io/competitions/official/236690/leaderboard) |
 
 ## Competition Experience
 
@@ -27,8 +27,6 @@ The records below were rechecked through the signed-in DACON participant profile
 | 제3회 풍력발전량 예측 AI 경진대회 - BARAM 2026 | **In Progress** | **Participant.** Detailed implementation ownership is not specified in the public record. | Public snapshot: **42nd / 763 · Total 0.65318** (1−NMAE 0.87534 · FiCR 0.43102) | [Schedule](https://www.dacon.io/competitions/official/236727/overview/schedule) · [Leaderboard](https://www.dacon.io/competitions/official/236727/leaderboard) |
 
 **ETRI review framing:** *From Public Leaderboard 1st to Final Private 118th: A Post-Competition Analysis of Validation and Generalization.*
-
-**Paper Status: TODO.** A paper submission or review status has not been independently verified.
 
 The cause of the ETRI Public–Private gap has not yet been fully verified. Possible factors such as validation design, model selection, probability calibration, distribution shift, and repeated leaderboard feedback remain hypotheses until code and experiment records are reviewed.
 
