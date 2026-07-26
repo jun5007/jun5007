@@ -49,7 +49,14 @@ No dedicated public repository or publishable code artifact for the three newly 
 | Data Processing | pandas, NumPy, tidyverse |
 | Machine Learning | scikit-learn, randomForest |
 | Visualization | Matplotlib, Seaborn |
+| Analytics Platforms | Google Analytics |
 | Analysis Workflow | Jupyter Notebook, Excel |
+
+## Certifications
+
+- **Google Analytics Certification (2026)** — Google Skillshop
+  - Issued: **2026-06-12**
+  - Expires: **2027-06-12**
 
 ## Contact
 
