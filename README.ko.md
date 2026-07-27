@@ -25,7 +25,7 @@
 |---|---|---|---|---|
 | DACON ETRI 휴먼이해 챌린지 | **리더보드 단계 종료** | **개인** | Public: **1위 / 0.50143** · Final Private: **118위 / 0.59183** | [일정](https://www.dacon.io/competitions/official/236690/overview/schedule) · [리더보드](https://www.dacon.io/competitions/official/236690/leaderboard) |
 | 2026 성균관대학교 멀티모달 AI Bias 챌린지 | **종료** | **개인** | Public: **2위 · 1** · Final Private: **33위 / 263 · 0.85952** | [일정](https://www.dacon.io/competitions/official/236722/overview/schedule) · [리더보드](https://www.dacon.io/competitions/official/236722/leaderboard) |
-| 2026 Samsung Collegiate Programming Challenge: AI 챌린지 | **1차 예선 종료, 진출 결과 발표 전** | **개인** | Public 스냅샷: **215위 / 640 · 0.8686** | [일정](https://www.dacon.io/competitions/official/236730/overview/schedule) · [리더보드](https://www.dacon.io/competitions/official/236730/leaderboard) |
+| 2026 Samsung Collegiate Programming Challenge: AI 챌린지 | **1차 예선 종료, 진출 여부 미검증** | **개인** | Public 스냅샷: **215위 / 640 · 0.8686** | [일정](https://www.dacon.io/competitions/official/236730/overview/schedule) · [리더보드](https://www.dacon.io/competitions/official/236730/leaderboard) |
 | 제3회 풍력발전량 예측 AI 경진대회 - BARAM 2026 | **진행 중** | **개인** | — | [일정](https://www.dacon.io/competitions/official/236727/overview/schedule) · [리더보드](https://www.dacon.io/competitions/official/236727/leaderboard) |
 
 ### ETRI에서 배운 점

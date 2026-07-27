@@ -25,7 +25,7 @@ The records below were rechecked through the signed-in DACON participant profile
 |---|---|---|---|---|
 | DACON ETRI Human Understanding Challenge | **Leaderboard Stage Completed** | **Individual** | Public: **1st / 0.50143** · Final Private: **118th / 0.59183** | [Schedule](https://www.dacon.io/competitions/official/236690/overview/schedule) · [Leaderboard](https://www.dacon.io/competitions/official/236690/leaderboard) |
 | 2026 Sungkyunkwan University Multimodal AI Bias Challenge | **Completed** | **Individual** | Public: **2nd · 1** · Final Private: **33rd / 263 · 0.85952** | [Schedule](https://www.dacon.io/competitions/official/236722/overview/schedule) · [Leaderboard](https://www.dacon.io/competitions/official/236722/leaderboard) |
-| 2026 Samsung Collegiate Programming Challenge: AI Challenge | **Round 1 completed; advancement result pending** | **Individual** | Public snapshot: **215th / 640 · 0.8686** | [Schedule](https://www.dacon.io/competitions/official/236730/overview/schedule) · [Leaderboard](https://www.dacon.io/competitions/official/236730/leaderboard) |
+| 2026 Samsung Collegiate Programming Challenge: AI Challenge | **Round 1 completed; advancement status not verified** | **Individual** | Public snapshot: **215th / 640 · 0.8686** | [Schedule](https://www.dacon.io/competitions/official/236730/overview/schedule) · [Leaderboard](https://www.dacon.io/competitions/official/236730/leaderboard) |
 | 3rd Wind Power Generation Forecasting AI Competition - BARAM 2026 | **In Progress** | **Individual** | — | [Schedule](https://www.dacon.io/competitions/official/236727/overview/schedule) · [Leaderboard](https://www.dacon.io/competitions/official/236727/leaderboard) |
 
 ### ETRI Key Learning
