@@ -12,9 +12,9 @@
 
 | 프로젝트 | 문제 | 내 역할 / 프로젝트 유형 | 상태 / 결과 | 저장소 |
 |---|---|---|---|---|
-| 생성형 AI 패키지 의존성 분석 | 중심 패키지, 의존성 커뮤니티, 구조적으로 유사한 대체 후보 파악 | 팀 프로젝트 | PyPI 기반 CSV 결과와 문서를 공개했으며, 수집 및 분석 파이프라인 코드는 공개하지 않았습니다. | [한국어 문서](https://github.com/jun5007/genai-package-dependency-network/blob/main/README.ko.md) |
+| 생성형 AI 패키지 의존성 분석 | 중심 패키지, 의존성 커뮤니티, 구조적으로 유사한 대체 후보 파악 | 팀 프로젝트 | `PORTFOLIO_REFACTORED_VERSION` 공개 결과 분석 Notebook은 공개 CSV 6개로 깨끗한 전체 실행을 완료했으며, 원본 수집·정제 파이프라인은 공개하지 않았습니다. | [한국어 문서](https://github.com/jun5007/genai-package-dependency-network/blob/main/README.ko.md) · [Notebook](https://github.com/jun5007/genai-package-dependency-network/blob/main/notebooks/01_public_results_analysis.ipynb) |
 | 환율 및 산업 수익률 Walk-Forward 분석 | 환율 민감도, 동조 피처, 다음 달 산업 수익률 분석 | 담당 종목 데이터를 공통 형식으로 수집·전처리했으며, Minsung Lee와 Walk-Forward Validation을 공동 개발했습니다. **Co-author이며, 논문 원고는 Minsung Lee가 작성했습니다.** | 일부 R 구현을 공개했으며, 원본 데이터가 없어 성능 재검증이 필요합니다. | [한국어 문서](https://github.com/jun5007/exchange-rate-synchronization/blob/main/README.ko.md) |
-| 뉴스·검색 트렌드와 주식시장 반응 | 시장 관심도 proxy와 다음 거래일 가격·거래량 반응 탐색 | 팀원들과 네이버 검색량 수집 및 BIGKinds 뉴스 정리에 참여했고, 최종 데이터 통합 정리와 시각화를 담당했습니다. | 문서와 환경 목록을 공개했으며, 분석 코드와 데이터는 공개하지 않았습니다. | [한국어 문서](https://github.com/jun5007/issue-stock-eda/blob/main/README.ko.md) |
+| 뉴스·검색 트렌드와 주식시장 반응 | 시장 관심도 proxy와 다음 거래일 가격·거래량 반응 탐색 | 팀원들과 네이버 검색량 수집 및 BIGKinds 뉴스 정리에 참여했고, 최종 데이터 통합 정리와 시각화를 담당했습니다. | 정리된 `PORTFOLIO_REFACTORED_VERSION` Notebook을 공개했으며 원본·파생 데이터는 제외했습니다. 정적 검사는 통과했지만 깨끗한 전체 실행은 검증하지 못해 과거 결과는 미검증 상태입니다. | [한국어 문서](https://github.com/jun5007/issue-stock-eda/blob/main/README.ko.md) · [Notebook](https://github.com/jun5007/issue-stock-eda/blob/main/notebooks/01_team_integrated_analysis.ipynb) |
 | DACON ETRI 휴먼이해 챌린지 | 휴먼이해 AI 대회 제출 모델 평가 | **개인 참가** | **리더보드 단계 종료.** Public Leaderboard: **1위 / 0.50143** · Final Private Leaderboard: **118위 / 0.59183**. 공개 모듈형 파이프라인은 `PORTFOLIO_REFACTORED_VERSION`입니다. `test684` 계열은 확인된 Public 최고 후보이며, 남아 있는 과거 후보 중 실제 최종 제출 선택은 현재 기록만으로 확정되지 않았습니다. | [한국어 문서](https://github.com/jun5007/dacon-etri-human-understanding-2026/blob/main/README.ko.md) · [일정](https://www.dacon.io/competitions/official/236690/overview/schedule) · [리더보드](https://www.dacon.io/competitions/official/236690/leaderboard) |
 
 ## 대회 경험
